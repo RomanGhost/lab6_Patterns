@@ -2,7 +2,11 @@
 
 Для запуска программы: 
 ```powershell
- cl Patterns.cpp
+cl Patterns.cpp
+```
+
+```shell
+g++ Patterns.cpp
 ```
 
 Ветка mainPatterns сожрежит выполненные 1 и 2 задание<br>
